@@ -3,43 +3,73 @@
   "comidas": [
     {
       "nome": "Arroz",
-      "votos": 250000
+      "votos": 250000,
+      "origem": "Ásia",
+      "nutrientesPrincipais": ["Carboidratos", "Vitaminas B"],
+      "curiosidade": "O arroz é um alimento básico para mais da metade da população mundial."
     },
     {
       "nome": "Pão",
-      "votos": 200000
+      "votos": 200000,
+      "origem": "Egito antigo",
+      "nutrientesPrincipais": ["Carboidratos", "Fibras"],
+      "curiosidade": "Existem mais de 300 tipos diferentes de pão ao redor do mundo."
     },
     {
       "nome": "Macarrão",
-      "votos": 150000
+      "votos": 150000,
+      "origem": "Itália",
+      "nutrientesPrincipais": ["Carboidratos", "Proteínas"],
+      "curiosidade": "O macarrão é uma das comidas mais consumidas no mundo."
     },
     {
       "nome": "Batata",
-      "votos": 120000
+      "votos": 120000,
+      "origem": "Peru",
+      "nutrientesPrincipais": ["Carboidratos", "Potássio"],
+      "curiosidade": "As batatas foram a primeira planta cultivada no espaço."
     },
     {
       "nome": "Frango",
-      "votos": 100000
+      "votos": 100000,
+      "origem": "Ásia",
+      "nutrientesPrincipais": ["Proteínas", "Vitaminas B"],
+      "curiosidade": "O frango é uma das carnes mais consumidas no mundo."
     },
     {
       "nome": "Peixe",
-      "votos": 90000
+      "votos": 90000,
+      "origem": "Global",
+      "nutrientesPrincipais": ["Ômega-3", "Proteínas"],
+      "curiosidade": "O sushi, que é feito de peixe cru, é um prato tradicional japonês."
     },
     {
       "nome": "Carne bovina",
-      "votos": 80000
+      "votos": 80000,
+      "origem": "Global",
+      "nutrientesPrincipais": ["Proteínas", "Ferro"],
+      "curiosidade": "A carne bovina é uma das fontes mais ricas de proteína."
     },
     {
       "nome": "Ovo",
-      "votos": 70000
+      "votos": 70000,
+      "origem": "Global",
+      "nutrientesPrincipais": ["Proteínas", "Vitaminas D"],
+      "curiosidade": "Os ovos são uma excelente fonte de proteína completa."
     },
     {
       "nome": "Vegetais",
-      "votos": 60000
+      "votos": 60000,
+      "origem": "Global",
+      "nutrientesPrincipais": ["Vitaminas", "Minerais"],
+      "curiosidade": "Uma dieta rica em vegetais pode ajudar a prevenir várias doenças."
     },
     {
       "nome": "Frutas",
-      "votos": 50000
+      "votos": 50000,
+      "origem": "Global",
+      "nutrientesPrincipais": ["Vitaminas", "Fibras"],
+      "curiosidade": "As frutas são essenciais para uma dieta balanceada e saudável."
     }
   ]
 }
