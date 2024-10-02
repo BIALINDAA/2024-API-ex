@@ -1,0 +1,27 @@
+[
+    {
+        "comida": "Arroz",
+        "votos": 250000,
+        "comentario": "O arroz é uma base essencial na dieta de muitas culturas."
+    },
+    {
+        "comida": "Pão",
+        "votos": 200000,
+        "comentario": "O pão é versátil e pode ser consumido de diversas formas."
+    },
+    {
+        "comida": "Macarrão",
+        "votos": 150000,
+        "comentario": "Macarrão é uma escolha popular em várias partes do mundo."
+    },
+    {
+        "comida": "Batata",
+        "votos": 120000,
+        "comentario": "As batatas são nutritivas e podem ser preparadas de várias maneiras."
+    },
+    {
+        "comida": "Frango",
+        "votos": 100000,
+        "comentario": "O frango é uma fonte de proteína muito apreciada."
+    }
+]
