@@ -1,12 +1,7 @@
 [
-  { "nome": "Arroz", "votos": 250000 },
-  { "nome": "Pão", "votos": 200000 },
-  { "nome": "Macarrão", "votos": 150000 },
-  { "nome": "Batata", "votos": 120000 },
-  { "nome": "Frango", "votos": 100000 },
-  { "nome": "Peixe", "votos": 90000 },
-  { "nome": "Carne bovina", "votos": 80000 },
-  { "nome": "Ovo", "votos": 70000 },
-  { "nome": "Vegetais", "votos": 60000 },
-  { "nome": "Frutas", "votos": 50000 }
+    { "nome": "Arroz", "votos": 250000 },
+    { "nome": "Pão", "votos": 200000 },
+    { "nome": "Macarrão", "votos": 150000 },
+    { "nome": "Batata", "votos": 120000 },
+    { "nome": "Frango", "votos": 100000 }
 ]
