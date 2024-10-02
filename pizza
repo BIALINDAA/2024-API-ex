@@ -1,0 +1,12 @@
+[
+    { "tipo": "Marguerita", "vendas": 150000 },
+    { "tipo": "Calabresa", "vendas": 120000 },
+    { "tipo": "Quatro Queijos", "vendas": 90000 },
+    { "tipo": "Frango com Catupiry", "vendas": 85000 },
+    { "tipo": "Vegetariana", "vendas": 70000 },
+    { "tipo": "Peperoni", "vendas": 60000 },
+    { "tipo": "Hawaiian", "vendas": 50000 },
+    { "tipo": "Napolitana", "vendas": 45000 },
+    { "tipo": "Portuguesa", "vendas": 40000 },
+    { "tipo": "Mexicana", "vendas": 35000 }
+]
