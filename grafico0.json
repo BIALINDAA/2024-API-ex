@@ -1,0 +1,27 @@
+[
+    {
+        "comida": "Churrasco",
+    "votos": 250000,
+    "comentario": "O churrasco é uma celebração de sabores e tradições, unindo pessoas ao redor da churrasqueira."
+    },
+    {
+        "comida": "Pizza",
+    "votos": 200000,
+    "comentario": "A pizza é um prato amado mundialmente, com infinitas combinações de sabores."
+    },
+    {
+        "comida": "Macarrão",
+        "votos": 150000,
+        "comentario": "Macarrão é uma escolha popular em várias partes do mundo."
+    },
+    {
+       "comida": "Lasanha",
+    "votos": 100000,
+    "comentario": "A lasanha é um prato reconfortante, repleto de camadas de sabor e tradição."
+    },
+    {
+        "comida": "Pão de Queijo",
+    "votos": 120000,
+    "comentario": "O pão de queijo é um petisco irresistível, crocante por fora e macio por dentro."
+    }
+]
