@@ -1,13 +1,13 @@
 [
     {
-        "comida": "Arroz",
-        "votos": 250000,
-        "comentario": "O arroz é uma base essencial na dieta de muitas culturas."
+        "comida": "Churrasco",
+    "votos": 250000,
+    "comentario": "O churrasco é uma celebração de sabores e tradições, unindo pessoas ao redor da churrasqueira."
     },
     {
-        "comida": "Pão",
-        "votos": 200000,
-        "comentario": "O pão é versátil e pode ser consumido de diversas formas."
+        "comida": "Pizza",
+    "votos": 200000,
+    "comentario": "A pizza é um prato amado mundialmente, com infinitas combinações de sabores."
     },
     {
         "comida": "Macarrão",
@@ -15,13 +15,13 @@
         "comentario": "Macarrão é uma escolha popular em várias partes do mundo."
     },
     {
-        "comida": "Batata",
-        "votos": 120000,
-        "comentario": "As batatas são nutritivas e podem ser preparadas de várias maneiras."
+       "comida": "Lasanha",
+    "votos": 100000,
+    "comentario": "A lasanha é um prato reconfortante, repleto de camadas de sabor e tradição."
     },
     {
-        "comida": "Frango",
-        "votos": 100000,
-        "comentario": "O frango é uma fonte de proteína muito apreciada."
+        "comida": "Pão de Queijo",
+    "votos": 120000,
+    "comentario": "O pão de queijo é um petisco irresistível, crocante por fora e macio por dentro."
     }
 ]
