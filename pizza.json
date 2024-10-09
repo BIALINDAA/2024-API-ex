@@ -1,0 +1,42 @@
+[
+    {
+        "sobremesa": "Sorvete",
+        "votos": 500000,
+        "comentario": "O sorvete é uma das sobremesas mais populares, especialmente no verão."
+    },
+    {
+        "sobremesa": "Bolo de Chocolate",
+        "votos": 400000,
+        "comentario": "O bolo de chocolate é uma escolha clássica e amada por muitos."
+    },
+    {
+        "sobremesa": "Cheesecake",
+        "votos": 350000,
+        "comentario": "O cheesecake é cremoso e pode ser feito com várias coberturas."
+    },
+    {
+        "sobremesa": "Tiramisu",
+        "votos": 300000,
+        "comentario": "O tiramisu é uma sobremesa italiana que combina café e queijo mascarpone."
+    },
+    {
+        "sobremesa": "Pavê",
+        "votos": 250000,
+        "comentario": "O pavê é uma sobremesa cremosa e crocante, muito apreciada em festas."
+    },
+    {
+        "sobremesa": "Brigadeiro",
+        "votos": 230000,
+        "comentario": "O brigadeiro é um doce brasileiro feito de leite condensado, chocolate e granulado."
+    },
+    {
+        "sobremesa": "Mousse de Maracujá",
+        "votos": 200000,
+        "comentario": "A mousse de maracujá é leve e refrescante, perfeita para dias quentes."
+    },
+    {
+        "sobremesa": "Pudim",
+        "votos": 180000,
+        "comentario": "O pudim é uma sobremesa clássica, cremosa e muito apreciada em diversas variações."
+    }
+]
