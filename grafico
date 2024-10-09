@@ -1,7 +1,7 @@
 [
-    { "nome": "Arroz", "votos": 250000 },
-    { "nome": "Pão", "votos": 200000 },
+    { "nome": "Churrasco", "votos": 250000 },
+    { "nome": "Pizza", "votos": 200000 },
     { "nome": "Macarrão", "votos": 150000 },
-    { "nome": "Batata", "votos": 120000 },
-    { "nome": "Frango", "votos": 100000 }
+    { "nome": "Lasanha", "votos": 120000 },
+    { "nome": "Pão de queijo", "votos": 100000 }
 ]
